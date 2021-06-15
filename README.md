@@ -15,6 +15,6 @@
 
 /* Employee Attrition Dashboard */
 
-![6  Employee attrition dashboard](https://user-images.githubusercontent.com/85949588/122118401-9c94e100-ce45-11eb-912c-df0927f51418.jpg)
+![6  Employee attrition dashboard](https://user-images.githubusercontent.com/85949588/122120051-8ee05b00-ce47-11eb-94ef-5778806abc6e.jpg)
 
 
