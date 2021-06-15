@@ -13,3 +13,8 @@
 ![5  Comparitive analysis with tooltip](https://user-images.githubusercontent.com/85949588/122117880-03fe6100-ce45-11eb-8bc6-1447c506b76e.jpg)
 
 
+/* Employee Attrition Dashboard */
+
+![6  Employee attrition dashboard](https://user-images.githubusercontent.com/85949588/122118401-9c94e100-ce45-11eb-912c-df0927f51418.jpg)
+
+
